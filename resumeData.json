@@ -1,0 +1,178 @@
+{
+  "main": {
+    "name":"Jason Chow",
+    "occupation":"3rd Year student in Singapore University of Technology and Design(SUTD)",
+    "degree": "Bachelor's Degree in Information Systems Techonology and Design",
+    "majors": "AI and Computer Engineering",
+    "description":"I am also taking a minor in Product Devleopment. While my area of interest is in robotics, I have an extensive background with backend and app development",
+    "image":"profilepic.jpg",
+    "bio":"Being primarily a computer science student, I am most well-attuned to software technologies. I am extremely passionate and well-versed with backend frameworks, and cloud technologies. However, I also have a strong interest with embedded technologies and low-level programming, to go with my interest in robotics. Lastly, I am also no stranger to app development and front-end technologies",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jason.chowcs@gmail.com",
+    "phone": "+65 92969734",
+    "address": {
+      "street":"Blk 910, Jurong West St. 91",
+      "city": "Singapore",
+      "zip": "S640910"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"/resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jason-chow-chee-sin/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/slimechips",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am most well-versed in Express.JS and Android App Development, but I have experience with many other technologies as well. For cloud-based technologies, I am familiar with AWS and Azure. I hope to continue moving on to enterprise-grade technologies like Spring Boot.",
+    "education":[
+      {
+        "school":"Singapore University of Tehcnology and Design",
+        "degree":"Bachelor of Science (AI/Comp Eng)",
+        "graduated":"Aug 2021",
+        "description":"I have undertaken many academic and external projects (undergraduate research, hackathons, club projects) in my school, be it in the form of mobile appications, web applications or embedded system projects. I am part of Game Design Club, House Guardians (Hall Master), Digital Development and Design Club (Exco) and Uni-Y. Check out my projects below!"
+      },
+      {
+        "school":"Hwa Chong Institution",
+        "degree":"Hybrid Stream (PHME)",
+        "graduated":"Dec 2015",
+        "description":"I was part of the GEP (Gifted Education Programme). I studied Physics, History, Math and Economics in College. Throughout my years, I was part of Robotics Club and Film & Media Society."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"30%"
+      },
+
+      {
+        "name":"Angular",
+        "level":"70%"
+      },
+      {
+        "name":"AWS",
+        "level":"80%"
+      },
+      {
+        "name":"Azure",
+        "level":"85%"
+      },
+      {
+        "name":"Express",
+        "level":"95%"
+      },
+      {
+        "name":"Spring Boot",
+        "level":"50%"
+      },
+      {
+        "name":"C/C++",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"C#/Unity",
+        "level":"90%"
+      },
+      
+      {
+        "name":"Java",
+        "level":"95%"
+      },
+      {
+        "name":"Typescript/NodeJs",
+        "level":"95%"
+      },
+      {
+        "name":"MySQL",
+        "level":"75%"
+      },
+      {
+        "name":"Android App Development",
+        "level":"90%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"75%"
+      },
+      {
+        "name":"Linux",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
