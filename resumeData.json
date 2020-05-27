@@ -4,10 +4,10 @@
     "occupation":"3rd Year student in Singapore University of Technology and Design(SUTD)",
     "degree": "Bachelor's Degree in Information Systems Technology and Design",
     "majors": "AI and Computer Engineering",
-    "description":"I am also taking a minor in Product Devleopment. While my area of interest is in robotics, I have an extensive background with backend and app development",
+    "description":"I am also taking a minor in Product Development. While my area of interest is in robotics, I have an extensive background with backend and app development",
     "image":"profilepic.jpg",
     "bio":"Being primarily a computer science student, I am most well-attuned to software technologies. I am extremely passionate and well-versed with backend frameworks, and cloud technologies. However, I also have a strong interest with embedded technologies and low-level programming, to go with my interest in robotics. Lastly, I am also no stranger to app development and front-end technologies",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Keep in contact with me!",
     "email": "jason.chowcs@gmail.com",
     "phone": "+65 92969734",
     "address": {
@@ -46,18 +46,121 @@
         "description":"I was part of the GEP (Gifted Education Programme). I studied Physics, History, Math and Economics in College. Throughout my years, I was part of Robotics Club and Film & Media Society."
       }
     ],
-    "work":[
+    "employment":[
       {
         "company":"GovTech National Digital Identity",
-        "title":"A",
-        "years":"A",
-        "description":"A"
+        "title":"Software Developer Intern",
+        "years":"May 2019 - Sep 2019",
+        "description": [
+          "Coded digital-signing web app, complete with front-end(Angular) and back-end(NodeJS/Express) microservices.",
+          "Deployed applications on AWS, also containerised(Docker) microservices and deployed to Kubernetes.",
+          "Maintained applications running on Linux (Ubuntu Server) instances, using Nginx servers on AWS cloud",
+          "Oversaw DevOps work (CI/CD, Documentation) for the project, and also provided support to corporate partners."
+        ]
       },
       {
-        "company":"A",
-        "title":"",
-        "years":"",
-        "description":""
+        "company":"Singapore Armed Forces (SAF)",
+        "title":"Combat Medic for Combat Engineer Platoon",
+        "years":"May 2016 - Feb 2018",
+        "description": [
+          "Platoon Medic for Field Engineer Unit, took care of medical needs of platoon and helped out with their work"
+        ]
+      },
+      {
+        "company":"College of Insurance",
+        "title":"Data Entry Clerk",
+        "years":"Feb 2018 - April 2018",
+        "description": [
+          "Digitalised old records of students by performing data entry work"
+        ]
+      }
+    ],
+    "work":[
+      {
+        "title": "Spark-a-life Hackathon",
+        "organisation":"Orgaisd by Firefly",
+        "years":"Mar 2020 - Present",
+        "description": [
+          "Brainstormed a problem statement and solution for familial dementia caregivers in Singapore, performing in-dept market analysis and groundwork",
+          "Developed an Android mobile application, with a personalised digital journal, in-depth profiling techniques and a virtual assistant",
+          "Also created a Spring Boot backend sever, deployed on Azure Cloud that utilised Natural Langauge Processing techniques to identify red flags amongst caregivers, information would then be sent to various support groups to help out caregivers"
+        ]
+      },
+      {
+        "title": "Tactical Hull Climbing Robot",
+        "organisation":"Coursework in collaboration with HTX",
+        "years":"Feb 2020 - May 2020",
+        "description": [
+          "Created a hull climbing robot in collaboration with HTX, to help Home Team officers easily deploy ladders on top of ship hulls during ops",
+          "Robot was fully automated, with an option for override",
+          "Robot was powered by Arduino Uno, Raspberry Pi, and Roboclaw motor controller"
+        ]
+      },
+      {
+        "title": "Geolocation Tracker Research Project",
+        "organisation":"Undergraduate research project with SCDF",
+        "years":"Oct 2019 - Present",
+        "description": [
+          "Created geo-trackers that used triangulation to locate each other, potentially for use in fire-fighting scenarios or military operations",
+          "Used Arduino Pro Mini chips together with sensors as part of the trackers, programmed with C++"
+        ]
+      },
+      {
+        "title": "iNTUition v6.0 Hackathon",
+        "organisation":"Organised by NTU IEEE",
+        "years":"Oct 2019",
+        "description": [
+          "Created a Chrome extension (Perspective-Bot) running on Microsoft Azure, that broadens netizens’ knowledge and views on trending topics, by scraping through the internet for different perspectives and geographical statistics.",
+          "Information was then processed using Natural Language Processing (NLP) and clustering, then visualised to the user.",
+          "Prototype was awarded Best Cloud-based Hack."
+        ]
+      },
+      {
+        "title": "Citi Social Hackathon",
+        "organisation":"Build on Singapore",
+        "years":"Sep 19",
+        "description": [
+          "Working together with 3 other teams, my team developed a web application for social organisations to recruit volunteers for their events.",
+          "I was responsible for the back-end (NodeJS/Express) for my team’s part of the application."
+        ]
+      },
+      {
+        "title": "Build-On Singapore",
+        "organisation":"Organised by AWS, GovTech and NUS",
+        "years":"Sep 19",
+        "description": [
+          "Designed virtual voice assistant using Amazon Lex and voice recognition, that could perform digital services such as automatic form-filling using personal data collected from the government, complete with voice authentication.",
+          "Android mobile prototype achieved 3rd Runner-up."
+        ]
+      },
+      {
+        "title": "VR Simulation of Water Processing Facility (VVater)",
+        "organisation":"Organised by iTrust Research Centre",
+        "years":"Sep 18 - Sep 19",
+        "description": [
+          "Designed and coded a VR experience, using Unity to simulate the environment of a water processing facility, to demonstrate to and educate users how to respond to attacks on the plant facility.",
+          "Held live demonstrations several times a month with visitor groups and foreign VIPs (e.g. Chilean President).",
+          "Project won Best Innovation Award at SUTD’s annual Research Fest."
+        ]
+      },
+      {
+        "title": "Android University Lifestyle App",
+        "organisation":"Coursework Project",
+        "years":"Sep 19 - Dec 19",
+        "description": [
+          "Team of 6 created an Android app for university students to find others who share similar interests.",
+          "Used machine learning algorithms(sklearn) to recommend interests to users based on past activities.",
+          "Integrated app with backend Python Flask server and SQLite database to store interests and events"
+        ]
+      },
+      {
+        "title": "Whack-a-Mole Game",
+        "organisation":"Coursework Project",
+        "years":"Sep 19 - Dec 19",
+        "description": [
+          "Team of 5 created a Whack-a-Mole arcade game from scratch, procuring and assembling the materials and components ourselves.",
+          "Game was programmed from the ground-up using logic gates and a CPU architecture that we designed ourselves."
+        ]
       }
     ],
     "skills":[
@@ -132,34 +235,52 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Perspective Bot",
+        "category":"Chrome Extension for gathering and broadening perspectives",
+        "image":"perspective.jpg",
+        "url":"https://github.com/slimechips/intuition/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Water Plant VR Demo",
+        "category":"VR training demo for water plant facility",
+        "image":"vvater.jpg",
+        "url":"https://itrust.sutd.edu.sg/testbeds/secure-water-treatment-swat/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Whack-a-mole Arcade game",
+        "category":"Physical Whack-a-mole arcade game designed from scratch",
+        "image":"whack.jpg",
+        "url":"https://github.com/EYLeong/CompStruct1D"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Tactical Hull Climbing Robot",
+        "category":"A magnetic ship hull climbing robot that can deploy a ladder",
+        "image":"htx.jpg",
+        "url":"https://github.com/slimechips/30.007a"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Geolocation Tracker",
+        "category":"A tracker that performs localised tracking for groups",
+        "image":"dwm.jpg",
+        "url":"https://github.com/storyinvisible/RTLS_IDC_UROP"
+      },
+      {
+        "title":"JEntries Mobile App",
+        "category":"A personalised digital journal for familial dementia caregivers",
+        "image":"jentries.jpg",
+        "url":"https://slimechips.github.io"
+      },
+      {
+        "title":"Jamie Voice Assistant",
+        "category":"Ask Jamie, with voice and automatic functions",
+        "image":"buildon.jpg",
+        "url":"https://github.com/slimechips/aws-govtech-back"
+      },
+      {
+        "title":"Carcassonne AR Game",
+        "category":"An AR game based of on popular board game Carcassonne",
+        "image":"carcassone.jpg",
+        "url":"https://github.com/slimechips/HalfAndHalf"
       }
     ]
   },
