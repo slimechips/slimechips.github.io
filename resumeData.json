@@ -161,6 +161,28 @@
           "Team of 5 created a Whack-a-Mole arcade game from scratch, procuring and assembling the materials and components ourselves.",
           "Game was programmed from the ground-up using logic gates and a CPU architecture that we designed ourselves."
         ]
+      },
+      {
+        "title": "Recess Week Challenge",
+        "organisation": "Co-cirricular Activities",
+        "years": "Oct 20 - Nov 20",
+        "description": [
+          "Director of a week-long coding challenge, challenging participants on 5 algorithm questions on HackerRank with varying difficulties, with guided hints, editorials and test cases all written by myself.",
+          "Also included a cloud-based lab to set up a basic web application on AWS Elastic Beanstalk",
+          "Developed dynamic challenge website with admin panel, self-updating leaderboard and lab-checker written in ASP.NET Core MVC (C#), deployed on Azure App Service and Azure SQL database",
+          "https://github.com/3DCdsc/RecessWeekChallenge2020"
+        ]
+      },
+      {
+        "title": "Book Review Website",
+        "organisation": "Coursework Project",
+        "years": "Sept 20 - Dec 20",
+        "description": [
+          "Team of 5 created a Book Review site in using React frontend and Flask backend, with SQL Databases and MongoDB databases for review data, logging and metadata",
+          "Has an analytics system running on an Apache Spark Cluster, that finds Pearson Correlation and TD-INF on reviews",
+          "Personal role was to setup the complete secure network infrastructure on AWS, automated with CloudFormation",
+          "https://github.com/slimechips/DBCloudFormation"
+        ]
       }
     ],
     "skills":[
